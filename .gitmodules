@@ -1,6 +1,6 @@
 [submodule "reef-estimator-2"]
 	path = reef-estimator-2
-	url = http://192.168.1.101/reef-estimator-2/reef-estimator-2
+	url = https://github.com/uf-reef-avl/reef_estimator_2
 [submodule "reef_control"]
 	path = reef_control
 	url = https://github.com/uf-reef-avl/reef_control/
