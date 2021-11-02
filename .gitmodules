@@ -19,9 +19,6 @@
 [submodule "rosflight"]
 	path = rosflight
 	url = https://github.com/rosflight/rosflight
-[submodule "relative_nav"]
-	path = relative_nav
-	url = http://192.168.1.101/prasgane/relative_nav
 [submodule "vo-sim"]
 	path = vo-sim
 	url = http://192.168.1.101/reef-estimator-2/vo-sim
