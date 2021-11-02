@@ -10,9 +10,6 @@
 [submodule "reef_msgs"]
 	path = reef_msgs
 	url = https://github.com/uf-reef-avl/reef_msgs
-[submodule "rosflight"]
-	path = rosflight
-	url = https://github.com/rosflight/rosflight
 [submodule "setpoint_generator"]
 	path = setpoint_generator
 	url = https://github.com/uf-reef-avl/setpoint_generator
@@ -22,3 +19,9 @@
 [submodule "sim_helper"]
 	path = sim_helper
 	url = https://github.com/uf-reef-avl/sim_helper
+[submodule "rosflight"]
+	path = rosflight
+	url = https://github.com/rosflight/rosflight
+[submodule "relative_nav"]
+	path = relative_nav
+	url = http://192.168.1.101/prasgane/relative_nav
