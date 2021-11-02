@@ -1,6 +1,3 @@
-[submodule "vo_sim"]
-	path = vo_sim
-	url = http://192.168.1.101/prasgane/vo_sim
 [submodule "reef-estimator-2"]
 	path = reef-estimator-2
 	url = http://192.168.1.101/reef-estimator-2/reef-estimator-2
@@ -25,3 +22,6 @@
 [submodule "relative_nav"]
 	path = relative_nav
 	url = http://192.168.1.101/prasgane/relative_nav
+[submodule "vo-sim"]
+	path = vo-sim
+	url = http://192.168.1.101/reef-estimator-2/vo-sim
